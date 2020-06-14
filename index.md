@@ -4,7 +4,8 @@
 
 ## 技术
 
-内容
+        <a href="/2020/ready.html">ready</a>
+
 
 ## 篮球
 
