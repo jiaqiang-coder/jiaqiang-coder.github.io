@@ -4,7 +4,6 @@
 
 ## 技术
 
-        <a href="/2020/ready.html">ready</a>
          [a](/2020/ready.html)
 
 
